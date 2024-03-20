@@ -11,4 +11,4 @@ app.use(bodyParser.json());
 app.listen(PORT, () => {
   console.log(`${PORT} 번 포트에서 대기중`);
 });
-console.log("test");
+console.log("test2");
